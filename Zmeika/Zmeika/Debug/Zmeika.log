@@ -1,0 +1,4 @@
+﻿  Zmeika.cpp
+D:\Study\Zmeika\Zmeika\Zmeika.cpp(152,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Study\Zmeika\Zmeika\Zmeika.cpp(239): warning C4715: get_play_field_value: значение возвращается не при всех путях выполнения
+  Zmeika.vcxproj -> D:\Study\Zmeika\Debug\Zmeika.exe
